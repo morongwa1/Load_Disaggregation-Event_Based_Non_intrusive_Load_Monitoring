@@ -1,0 +1,1 @@
+data =  readtable("MultiLightsMin20W_tred.csv")
